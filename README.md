@@ -26,10 +26,10 @@ This project explores orbital motion using physics principles and computational 
 ## 📊 Results
 
 ### Graph 1: Velocity vs Altitude
-![Graph 1](images/graph1.png)
+![Graph 1] https://drive.google.com/file/d/1KmUFmRMfbPh-c9pjTel1ZsGjTYIKKV5r/view?usp=drivesdk
 
 ### Graph 2: Time Period vs Altitude
-![Graph 2](images/graph2.png)
+![Graph 2] https://drive.google.com/file/d/1ibhD1WoGWNnmwt0k-ZQS9wFyL_GqDZey/view?usp=drivesdk
 
 ## 📁 Full Report
 👉 [View PDF] https://docs.google.com/document/d/1LJ1zw3oQMcXZG3hAwR5m0swEgPzaGqEDldkBGIPIi4U/edit?usp=drivehere
